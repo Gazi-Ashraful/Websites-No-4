@@ -1,0 +1,208 @@
+@media (max-width:1619px){ 
+
+}
+
+@media (max-width:1300px){
+
+}
+@media (max-width:1199px){
+/* About-Section */
+.about-section { height: auto; }
+body.about-on .hero-section { transform: scale(0); }
+.about-3 h1 {  letter-spacing: 2px;}
+.about-button button { margin-bottom: 80px; }
+body.about-on .bodyy { transform:rotate(120deg) scale(0); }
+
+
+
+
+}
+
+
+@media (max-width:991px){
+  body,html { overflow-x:hidden; }
+  /* Hero-Section */
+ .bodyy { height: auto; }
+ .hero-section h1 { font-size: 40px;  color: #dfe6e9; }
+ .hero-section .dancing p  { font-size: 22px; margin-bottom: 40px; color: #dfe6e9; }
+ .az-2 { color: #dfe6e9; }
+ .az-1 span { color: #dfe6e9; }
+
+ /* About-Section */
+ .about-section { height: auto; }
+ .about-img { height: 140px; }
+ .about-img h1 { left: 60px; color: #dfe6e9; font-size: 35px; top: 35px; }
+ .about-p { left: 60px; color: #dfe6e9; top: 80px; }
+ .about-3 h1 { font-size: 30px; letter-spacing: 0px; word-spacing: 2px; color: #dfe6e9; font-weight: 500; }
+ .about-3 p { color: #dfe6e9; font-size: 14px; }
+ .about-button button { color: #dfe6e9; border:2px solid #dfe6e9; height: 35px; width: 140px; } 
+ .as-6 a img { margin-top: 60px; }
+ 
+ /* Services-Section */
+.services-section { height: auto; transform:rotate(120deg) scale(0); padding: 50px 0px;  position: absolute;  transition: .7s;}
+body.services-on .services-section { transform:rotate(0) scale(1); transition: .7s;}
+body.services-on .bodyy { transform:rotate(120deg) scale(0); } 
+.header h1 { font-size: 32px; padding-bottom: 30px; color: #dfe6e9; word-spacing: 2px; }
+.fa-icon-h5 a i {  font-size: 45px; padding-top: 30px; color: #dfe6e9; }
+.fa-icon-h5 h5 { font-weight: 500; font-size: 16px; color: #dfe6e9; }
+.mb-asd { padding-bottom: 50px; }
+.under button {  margin-bottom: 10px;  padding: 5px 15px; font-size: 13px;color: #dfe6e9; border:2px solid #dfe6e9; } 
+.under p { font-size: 12px; padding-top: 20px; color: #dfe6e9; }
+.under button:hover { background: #dfe6e9; }
+.ax { margin-top: 40px; margin-bottom: 40px; }
+ /* Testimonial-Section */
+ .testimonial-section { height: auto; }
+ .col-7-h5 h5 { word-spacing: 3px; font-weight: bold; letter-spacing: 2px; font-size: medium; }
+ .btn-2 .notun-1 { margin-left: 100px; }
+ .col-3-img img { margin-top: 130px; }
+ body.testimonial-on .bodyy { transform:rotate(120deg) scale(0); }
+ .testimonial-h1 h1 {color: #dfe6e9; }
+ .col-7-h5 h5 {color: #dfe6e9;}
+ .slider-p p  { color: #dfe6e9;}
+ .name-1 span { color: #dfe6e9; }
+ .name-1 p { color: #00cec9; }
+ .btn-2 button {color:#dfe6e9;}
+ /* Portfolio-Section */
+ .portfolio-section { height: auto; }
+ body.portfolio-on .bodyy { transform:rotate(120deg) scale(0); }
+ .font-h5 { margin-bottom: 150px;}
+ .portfolio-h1 h1, p {color: #dfe6e9; }
+ .portfolio-h1 p {color: #dfe6e9; }
+ .font-h5 h4 { color:#dfe6e9;}
+ .font-h5 p { color:#dfe6e9;}
+ .font-h5 a { background-color: #dfe6e9; }
+ .font-h5 a:hover .fa-arrow-right { color: #dfe6e9; }
+ .font-h5 a:hover { color: #dfe6e9;}
+ /* Contact-Section */
+ .contact-section { height: auto; position: absolute; transform:rotate(120deg) scale(0); }
+ body.contact-on .contact-section { transform:rotate(0) scale(1); }
+ body.contact-on .bodyy { transform:rotate(120deg) scale(0); } 
+ .st1-col { transform:rotate(120deg) scale(0); }   
+ .st2-col { transform:rotate(120deg) scale(0); }
+  body.about-onon .st1-col { transform:rotate(0) scale(1); }
+  body.about-onon .st2-col { transform:rotate(0) scale(1); }
+ body.about-onon .st3-col { transform:rotate(120deg) scale(0); } 
+ body.about-onon .st4-col { transform:rotate(120deg) scale(0); }
+ body.about-onon .contact-section { height: 65vh; }
+
+ .sign-in p { color: #dfe6e9;}
+ .top-h h1 { color: #dfe6e9;}
+ form .forgot:hover { color: #b3bdc2; }
+ form .forgot  { color: #fff; } 
+ .button-1 { background: linear-gradient(to right,#8395a7,#fff); }
+ .button-1:hover { background: linear-gradient(to right,#fff,#8395a7); }
+ .sing-up-1 { background: linear-gradient(to right,#8395a7,#fff); }
+ .sing-up-1:hover { background: linear-gradient(to right,#fff,#8395a7); }
+.form-user .button-2 { background: linear-gradient(to right,#8395a7,#fff); }
+.button-2:hover { background: linear-gradient(to right,#fff,#8395a7);}
+.sign-up p { color:#dfe6e9; }
+.form-user input[type="user"]:focus, input[type="email"]:focus, input[type="password"]:focus { border:3px solid #fff;  color:#fff; }
+.form-user input[type="user"], input[type="email"], input[type="password"] { border:3px solid #b3c1d1; color:#95a5a6; ;}
+.sing-in-1 { background: linear-gradient(to right,#8395a7,#fff); }
+.sing-in-1:hover { background: linear-gradient(to right,#fff,#8395a7); }
+
+
+
+body.about-on .hero-section { transform: scale(0); }
+body.services-on .hero-section { transform: scale(0); }
+body.contact-on .hero-section { transform: scale(0); }
+body.testimonial-on .hero-section { transform: rotateX(0); }
+body.portfolio-on .hero-section { transform: rotateX(0); }
+
+}
+
+@media (max-width:767px){
+  /* Hero-Section */
+ .hero-section h1 {font-size: 33px; }
+ .hero-section .dancing p  { font-size: 19px; margin-bottom: 40px;}
+ .hero-section .az-2 { font-size: 15px; }
+ .az-1 span { font-size: 15px; }
+ /* Services-Section */
+ .mb-asc { margin-top: 120px; margin-bottom: 120px; }
+ .mb-asd { margin-bottom: 20px; }
+ /* Testimonial-Section */
+ .col-3-img img { display: none; }
+ .as-a3 { display: block!important; }
+ .as-a4 { display: block!important; }
+ .st4-col { display: none;}
+ .st2-col { display: none;}
+}
+
+@media (max-width:575px){
+ /* Hero-Section */
+ .hero-section .az-2 { font-size: 13px;  margin-top: 20px; }
+ .az-1 span { font-size: 13px;  margin-top: 80px; }
+ /* About-Section */
+ .about-button button { margin-bottom: 40px; }
+ /* Services-Section */
+ .mb-asc { margin-top: 130px; margin-bottom: 130px; }
+ .mb-asd { margin-bottom: 20px; }
+/* Testimonial-Section */
+.testimonial-h1 h1 { font-size: 35px; }
+.btn-2 .notun-1 { margin-left: 160px; }
+.col-7-h5 h5 { padding-top: 70px; } 
+.btn-2 button { margin-top: 62px; }
+/* Portfolio-Section */
+.portfolio-h1 h1 { font-size: 35px; }
+.portfolio-h1 p {  margin-bottom: 50px; }
+.carousel-item img { height: 170px; width: 170px; margin-top: 30px;}
+.font-h5 { margin-bottom: 70px;}
+.font-h5 a { padding: 6px 12px; font-size: 12px; }
+
+}
+
+
+@media (max-width:480px){
+ /* Hero-Section */
+ .hero-section h1 {font-size: 30px; }
+ .hero-section .dancing p { font-size: 17px; margin-bottom: 40px; }
+ .hero-section .az-2 { font-size: 12px; margin-top: 0px;  }
+ .az-1 span { font-size: 12px; margin-top: 30px; } 
+ .az-1 p span { margin-left: 7px!important; margin-right: 7px!important; }
+ /* About-Section */
+.about-img { height: 100px; }
+.about-img h1 { left: 40px; color: #dfe6e9; font-size: 30px; top: 22px; word-spacing: 2px; }
+.about-p {left: 40px; color: #dfe6e9; top: 56px; }
+.about-3 h1 { font-size: 25px; letter-spacing: 1px; word-spacing: 1px;}
+.about-3 p { font-size: 14px;}
+.as-6 a img { margin-top: 0px; }
+ /* Services-Section */
+ .mb-asc { margin-top: 120px; margin-bottom: 120px; }
+ .mb-asd { margin-bottom: 20px; }
+/* Testimonial-Section */
+.testimonial-h1 h1 { font-size: 30px; }
+.btn-2 .notun-1 { margin-left: 50px; }
+.col-7-h5 h5 { padding-top: 70px; } 
+.btn-2 button { margin-top: 62px; }
+/* Portfolio-Section */
+.portfolio-h1 h1 { font-size: 28px; }
+.carousel-item img { height: 140px; width: 140px; margin-top: 35px; }
+.font-h5 h4 { font-size: 15px; font-weight: 700; }
+.font-h5 p { font-size: 12px;}
+.font-h5 a { padding: 5px 10px; font-size: 10px; }
+/* contact-section */
+.top-h h1 { letter-spacing: 2px!important;}
+.button-1 {padding: 10px 15px; font-size: 11px; word-spacing: 0px;}
+.form-user .button-2 { padding: 10px 15px; font-size: 11px; word-spacing: 0px; }
+.form-user input[type="user"], input[type="email"], input[type="password"] {  width: 80%; padding: 4px; }
+.form-user input[type="user"]:focus, input[type="email"]:focus, input[type="password"]:focus {  width: 90%;}
+body.about-onon .contact-section { height: 100vh; }
+.slider-p { font-size: 14px;}
+
+} 
+
+@media (max-width:360px){
+/* Hero-Section */
+.az-1 p span { margin-left: 5px!important; margin-right: 5px!important; }
+/* Services-Section */
+.mb-asc { margin-top: 70px; margin-bottom: 70px; }
+ /* About-Section */
+.about-img { height: 100px; }
+.about-section { height: auto; }
+.about-img h1 { left: 40px; color: #dfe6e9; font-size: 30px; top: 22px;}
+.about-p { left: 40px; color: #dfe6e9; top: 55px; }
+.as-6 a img { margin-top: 0px; }
+ /* Testimonial-Section */
+ .btn-2 .notun-1 { margin-left: 30px; }
+
+}
